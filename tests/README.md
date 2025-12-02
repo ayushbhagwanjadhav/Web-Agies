@@ -16,15 +16,8 @@ A real-time browser security extension that proactively detects and blocks phish
 - **🎯 High Accuracy:** 95% detection rate with <2% false positives
 
 ## 🏗️ Architecture
-┌─────────────────┐ ┌─────────────────┐ ┌─────────────────┐
-│ Browser │───▶│ Flask API │───▶│ Analysis │
-│ Extension │ │ Backend │ │ Engine │
-│ │◀───│ │◀───│ │
-└─────────────────┘ └─────────────────┘ └─────────────────┘
-│ │ │
-▼ ▼ ▼
-User Warning Multi-threaded AI Heuristics
-Interface Concurrent Checks Brand Protection
+│ Browser │───▶│ Flask API │───▶│ Analysis Engine │───▶│ Backend │───▶│ Extension │
+
 
 ## 🚀 Quick Start
 

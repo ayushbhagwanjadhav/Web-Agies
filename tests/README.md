@@ -48,8 +48,8 @@ A real-time browser security extension that proactively detects and blocks phish
   - Click "Load unpacked" → Select /extension folder
 
 4. **Test Installation**
-  - Visit test URL: https://e449tgem6w4g5b7iig98.xn--macnca-el8b.net/auth.html
-                    https://mailvoiceserver.com
+  - Visit test URL: 1. https://e449tgem6w4g5b7iig98.xn--macnca-el8b.net/auth.html
+                    2. https://mailvoiceserver.com
 
 
 ## 📁 Project Structure

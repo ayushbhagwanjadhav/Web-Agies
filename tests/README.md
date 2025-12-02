@@ -131,7 +131,8 @@ tests/             # Test cases
 ## 👨‍💻 About the Developer
 
 **Ayush Jadhav - 3rd year CSE Student**
-**Started as a college project in 2025
-now actively maintained with continuous improvements.**
+**Started as a college project in 2025**
+
+**now actively maintained with continuous improvements.**
 
    

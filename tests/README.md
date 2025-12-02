@@ -56,19 +56,31 @@ A real-time browser security extension that proactively detects and blocks phish
 ## 📁 Project Structure
 
  backend/           # Flask API server
+ 
  ├── app.py         # Main application
+ 
  ├── brands.json    # 500+ brand database
+ 
  ├── config.yaml    # Configuration
+ 
  └── requirements.txt
 
+
  extension/         # Chrome extension
+ 
  ├── manifest.json  # Extension manifest
+ 
  ├── background.js  # Core logic
+
  ├── warning.html   # Block page UI
+ 
  ├── styles.css     # Styling
+ 
  └── icons/         # Extension icons
+ 
 
 docs/              # Documentation
+
 tests/             # Test cases
 
 ## 🔧 Technologies Used

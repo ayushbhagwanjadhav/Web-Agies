@@ -1,0 +1,119 @@
+{
+  "ecommerce": [
+    "flipkart", "amazon", "myntra", "meesho", "snapdeal", "ajio", "nykaa", "tatacliq",
+    "alibaba", "ebay", "walmart", "target", "bestbuy", "etsy", "shopify", "zara",
+    "h&m", "nike", "adidas", "puma", "underarmour", "asos", "boohoo", "shein",
+    "wayfair", "ikea", "overstock", "newegg", "macys", "kohls", "sephora",
+    "ulta", "bedbathandbeyond", "home depot", "lowes", "costco", "sam's club"
+  ],
+  "crypto": [
+    "uniswap", "coinbase", "binance", "metamask", "trustwallet", "kraken", "ledger", "phantom",
+    "crypto.com", "blockchain.com", "exodus", "electrum", "trezor", "bitpay", "coinomi",
+    "atomic wallet", "guardawallet", "bitstamp", "gemini", "kucoin", "huobi", "okx",
+    "bybit", "dydx", "pancakeswap", "sushiswap", "aave", "compound", "makerdao"
+  ],
+  "finance": [
+    "paypal", "stripe", "wise", "revolut", "chime", "cashapp",
+    "venmo", "zelle", "square", "robinhood", "etrade", "fidelity", "vanguard",
+    "charles schwab", "morgan stanley", "goldman sachs", "jpmorgan", "bank of america",
+    "wells fargo", "citibank", "hsbc", "barclays", "deutsche bank", "american express",
+    "mastercard", "visa", "discover", "capital one", "chase", "td bank", "pnc"
+  ],
+  "social_media": [
+    "facebook", "instagram", "twitter", "linkedin", "whatsapp", "tiktok", "snapchat",
+    "pinterest", "reddit", "telegram", "discord", "signal", "wechat", "line", "vk",
+    "tumblr", "flickr", "quora", "medium", "clubhouse", "threads", "bluesky"
+  ],
+  "technology": [
+    "google", "microsoft", "apple", "samsung", "sony", "lg", "intel", "amd", "nvidia",
+    "dell", "hp", "lenovo", "asus", "acer", "msi", "logitech", "razer", "corsair",
+    "ibm", "oracle", "cisco", "qualcomm", "broadcom", "texas instruments", "arm",
+    "adobe", "autodesk", "salesforce", "servicenow", "workday", "sap", "vmware"
+  ],
+  "automotive": [
+    "toyota", "honda", "ford", "chevrolet", "bmw", "mercedes-benz", "audi", "volkswagen",
+    "hyundai", "kia", "nissan", "subaru", "mazda", "volvo", "jaguar", "land rover",
+    "tesla", "rivian", "lucid", "ferrari", "lamborghini", "porsche", "maserati",
+    "general motors", "stellantis", "renault", "peugeot", "citroen", "fiat"
+  ],
+  "fashion": [
+    "gucci", "louis vuitton", "chanel", "prada", "versace", "armani", "dolce gabbana",
+    "burberry", "calvin klein", "tommy hilfiger", "ralph lauren", "hugo boss",
+    "michael kors", "coach", "kate spade", "tiffany", "cartier", "rolex", "omega",
+    "swarovski", "zara", "h&m", "uniqlo", "forever 21", "gap", "old navy", "levi's"
+  ],
+  "food_beverages": [
+    "mcdonalds", "kfc", "burger king", "subway", "pizza hut", "domino's", "starbucks",
+    "coca-cola", "pepsi", "nestle", "kraft", "heinz", "kellogg's", "general mills",
+    "unilever", "procter gamble", "mondelez", "mars", "hershey's", "campbell",
+    "tyson", "danone", "danisco", "cargill", "archer daniels midland", "bunge"
+  ],
+  "entertainment": [
+    "netflix", "amazon prime", "disney+", "hulu", "hbo", "paramount", "peacock",
+    "spotify", "apple music", "youtube music", "pandora", "soundcloud", "deezer",
+    "twitch", "youtube", "vimeo", "dailymotion", "crunchyroll", "funimation"
+  ],
+  "travel": [
+    "booking.com", "expedia", "airbnb", "tripadvisor", "kayak", "priceline", "orbitz",
+    "hotels.com", "trivago", "agoda", "skyscanner", "cheapoair", "travelocity",
+    "marriott", "hilton", "hyatt", "ihg", "accor", "wynn", "mgm", "caesars"
+  ],
+  "healthcare": [
+    "pfizer", "moderna", "johnson johnson", "novartis", "roche", "merck", "gsk",
+    "sanofi", "astrazeneca", "bayer", "eli lilly", "abbvie", "bristol myers squibb",
+    "gilead", "amgen", "biogen", "teva", "mylan", "cardinal health", "mckesson"
+  ],
+  "education": [
+    "coursera", "udemy", "edx", "khan academy", "skillshare", "linkedin learning",
+    "pluralsight", "codecademy", "treehouse", "udacity", "byju's", "chegg",
+    "quizlet", "duolingo", "babbel", "rosetta stone", "campbell biology"
+  ],
+  "banking_india": [
+    "sbi", "hdfc", "icici", "axis", "kotak", "pnb", "bank of baroda", "canara",
+    "union bank", "indian bank", "yes bank", "idfc first", "rbl", "bandhan"
+  ],
+  "payment_india": [
+    "paytm", "phonepe", "google pay", "bhim", "amazon pay", "mobikwik", "freecharge"
+  ],
+  "government_india": [
+    "incometax", "gst", "uidai", "digilocker", "indiapost", "irctc", "mca", "nsdl"
+  ],
+  "gaming": [
+    "steam", "epic games", "xbox", "playstation", "nintendo", "ea", "activision",
+    "ubisoft", "blizzard", "riot games", "valve", "rockstar", "bethesda", "sega",
+    "capcom", "bandai namco", "square enix", "konami", "tencent games", "netmarble"
+  ],
+  "streaming": [
+    "netflix", "amazon prime video", "disney+ hotstar", "sonyliv", "zee5", "altbalaji",
+    "mx player", "voot", "jio cinema", "airtel xstream", "hulu", "hbo max", "apple tv+"
+  ],
+  "telecom": [
+    "airtel", "jio", "vi", "bsnl", "verizon", "at&t", "t-mobile", "vodafone",
+    "orange", "deutsche telekom", "telefonica", "bt", "comcast", "spectrum"
+  ],
+  "insurance": [
+    "lic", "bajaj allianz", "hdfc ergo", "icici lombard", "tata aig", "reliance general",
+    "state farm", "allstate", "geico", "progressive", "liberty mutual", "nationwide",
+    "aetna", "unitedhealth", "cigna", "humana", "blue cross", "anthem"
+  ],
+  "real_estate": [
+    "magicbricks", "99acres", "housing.com", "makaan.com", "realtor.com", "zillow",
+    "redfin", "trulia", "century 21", "remax", "coldwell banker", "sotheby's"
+  ],
+  "logistics": [
+    "dhl", "fedex", "ups", "usps", "amazon logistics", "delhivery", "blue dart",
+    "ekart", "shiprocket", "dtdc", "first flight", "professional couriers"
+  ],
+  "job_portals": [
+    "naukri", "linkedin jobs", "indeed", "monster", "shine", "timesjobs", "glassdoor",
+    "angel list", "hirect", "foundit", "careerbuilder", "ziprecruiter"
+  ],
+  "investment": [
+    "zerodha", "upstox", "angel one", "groww", "paytm money", "icici direct",
+    "hdfc securities", "kotak securities", "motilal oswal", "sharekhan", "5paisa"
+  ],
+  "cloud_services": [
+    "aws", "microsoft azure", "google cloud", "ibm cloud", "oracle cloud", "alibaba cloud",
+    "digitalocean", "linode", "vultr", "heroku", "netlify", "vercel", "cloudflare"
+  ]
+}
